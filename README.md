@@ -1,7 +1,7 @@
-### Hi there 👋
+### 👋 Hi there, I'm Sun
 
 <!--
-**sunkim0330/sunkim0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sunkim0330/sunkim0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🕹 Fun fact: I'm a gamer! 
 
 
-###Contact Me
+### Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sprovence//)](https://www.linkedin.com/in/sunhukim/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/scopro220/)](https://github.com/sunkim0330/)
 
