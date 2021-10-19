@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Fullstack applications and React projects
-- 🌱 I’m currently learning Typescript, Next.js, and Bootstrap
+- 🌱 I’m currently learning Typescript and Bootstrap
 - 💬 Ask me about anything!
 - 😄 Pronouns: She/her/hers
 - 🕹 Fun fact: I'm a gamer! 
