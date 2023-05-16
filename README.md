@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Fullstack applications and React projects
-- 🌱 I’m currently learning Flutter and Java
+- 🌱 I’m currently learning React and Java/Kotlin
 - 💬 Ask me about anything!
 - 😄 Pronouns: She/her/hers
 - 🕹 Fun fact: I'm a gamer! 
